@@ -1,5 +1,5 @@
 ---
-id: dino_game
+id: dino_gameа
 title: Dino Game
 subtitle: Classic Chrome dinosaur game ported to Bruce
 author: unknown
